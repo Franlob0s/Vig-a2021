@@ -4,7 +4,7 @@
 
 * Abrir terminal o cmd y clonar Repositorio
 ```
-git clone https://foretama@bitbucket.org/foretama/identificar_fallos_cortesuprema.git
+git clone https://foretama@bitbucket.org/foretama/identificar_fallos_cortesuprema.git (Bitbucket Pancho)
 ```
 * Crear tu virtual enviroment
 ```python
