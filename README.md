@@ -37,7 +37,7 @@ En la carpeta "code", hay 2 scripts:
 
 ## 01_descarga_fallos
 
-Con el script **01_descarga_fallos** podrás descargar los fallos de un día escogido.
+Con el script **01_descarga_fallos** se descargan los fallos de un día escogido.
 
 Los fallos descargados son guardados en la carpeta **code\downloads\FECHA\pdfs**, donde FECHA es la fecha escogida. Un ejemplo de ruta sería **code\downloads\2020_04_17\pdfs**
 
