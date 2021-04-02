@@ -8,7 +8,7 @@ git clone https://foretama@bitbucket.org/foretama/identificar_fallos_cortesuprem
 ```
 * Crear tu virtual enviroment (terminal)
 ```python
-python3 -m venv venv
+python3 -m venv venv (agregué pyton3)
 ```
 * Actualizar pip (terminal)
 ```python
@@ -17,12 +17,12 @@ python -m pip install --upgrade pip
 
 * Activar el virtual enviroment
 ```python
-python3 -m venv env
+python3 -m venv env (Agregué Python 3)
 ```
 * Instalar los paquetes con pip y requirements.txt (Spider)
 ```python
 pip install -r requirements.txt
-pip install -U selenium 
+pip install -U selenium (lo agregué depsués)
 ```
 * Descargar chromedriver para la version de chrome que tienes y sistema operativo
     * En Chrome Browser ir a: 3 puntos (botón abajo de la X) -> Ayuda -> Acerca de Google Chrome -> Obtener version
