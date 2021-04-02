@@ -6,20 +6,20 @@
 ```
 git clone https://foretama@bitbucket.org/foretama/identificar_fallos_cortesuprema.git (Bitbucket Pancho)
 ```
-* Crear tu virtual enviroment
+* Crear tu virtual enviroment (terminal)
 ```python
 python3 -m venv venv
 ```
-* Actualizar pip
+* Actualizar pip (terminal)
 ```python
 python -m pip install --upgrade pip
+```
 
 * Activar el virtual enviroment
 ```python
 python3 -m venv env
 ```
-```
-* Instalar los paquetes con pip y requirements.txt
+* Instalar los paquetes con pip y requirements.txt (Pycharm)
 ```python
 pip install -r requirements.txt
 ```
