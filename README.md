@@ -8,16 +8,16 @@ git clone https://foretama@bitbucket.org/foretama/identificar_fallos_cortesuprem
 ```
 * Crear tu virtual enviroment
 ```python
-python -m venv venv
-```
-* Activar el virtual enviroment
-
-```python
-venv\Scripts\activate
+python3 -m venv venv
 ```
 * Actualizar pip
 ```python
 python -m pip install --upgrade pip
+
+* Activar el virtual enviroment
+```python
+python3 -m venv env
+```
 ```
 * Instalar los paquetes con pip y requirements.txt
 ```python
