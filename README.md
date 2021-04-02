@@ -19,9 +19,10 @@ python -m pip install --upgrade pip
 ```python
 python3 -m venv env
 ```
-* Instalar los paquetes con pip y requirements.txt (Pycharm)
+* Instalar los paquetes con pip y requirements.txt (Spider)
 ```python
 pip install -r requirements.txt
+pip install -U selenium 
 ```
 * Descargar chromedriver para la version de chrome que tienes y sistema operativo
     * En Chrome Browser ir a: 3 puntos (botón abajo de la X) -> Ayuda -> Acerca de Google Chrome -> Obtener version
